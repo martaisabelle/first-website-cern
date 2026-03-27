@@ -1,4 +1,4 @@
-# First Website Recreation – Study Project
+## First Website Recreation – Study Project
 
 Recreation of the first website ever created, originally hosted at CERN (`http://info.cern.ch`).  
 This is a minimal, static HTML project designed to study early web structure, information architecture, and the historical evolution of the World Wide Web.
