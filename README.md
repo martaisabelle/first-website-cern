@@ -3,8 +3,6 @@
 Recreation of the first website ever created, originally hosted at CERN (`http://info.cern.ch`).  
 This is a minimal, static HTML project designed to study early web structure, information architecture, and the historical evolution of the World Wide Web.
 
----
-
 ## Project overview
 
 This repository implements a faithful recreation of the original homepage of the first website, preserving:
@@ -16,16 +14,12 @@ This repository implements a faithful recreation of the original homepage of the
 This is **not an official site** by CERN or the World Wide Web project.  
 It is strictly a **recreation for educational purposes**, focused on understanding how the web looked and worked in its earliest days.
 
----
-
 ## Technology stack
 
 - **HTML 5** – vanilla, semantic, no frameworks.  
 - **Static assets** – favicon in PNG format, served directly from the `src/` directory.  
 
 No build tool, bundler, or dependency manager is required.
-
----
 
 ## How the project runs
 
@@ -36,16 +30,12 @@ The project is hosted as a static site, meant to be opened through a standard br
 
 The project can be deployed to any static host (GitHub Pages, Vercel, Netlify, etc.) from the root folder without additional configuration.
 
----
-
 ## Key external links (original sources)
 
 - Main first website page: [http://info.cern.ch](http://info.cern.ch)  
 - Line‑mode browser simulator: [http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html](http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html)  
 - History of the birth of the Web: [https://home.web.cern.ch/topics/birth-web](https://home.web.cern.ch/topics/birth-web)  
 - About CERN: [https://home.web.cern.ch/about](https://home.web.cern.ch/about)
-
----
 
 ## Notes – What was learned
 
@@ -63,15 +53,11 @@ This project reinforced habits such as:
 - Using descriptive filenames and a clear folder structure (`src/` for static assets), making the project feel organized and maintainable.  
 - Writing a detailed `README.md` that explains the context, technology choices, and learning goals, turning the project into a proper portfolio piece.
 
----
-
 ## Credits
 
 - Original first website and content: [CERN](http://info.cern.ch)  
 - Recreation, code, and custom favicon: **Marta Isabelle**  
 - GitHub profile: [https://github.com/martaisabelle](https://github.com/martaisabelle)
-
----
 
 ## License / usage
 
